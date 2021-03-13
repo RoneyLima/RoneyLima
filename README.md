@@ -1,12 +1,13 @@
 ## Olá 👋, que bom que você chegou aqui
 
 ### Mas quem sou eu ?
+<br><br>
 Um Engenheiro Elétrico ? Quase! 
-Um Cientista ? De alma. 
+Um Cientista ? De alma. <br>
 Um dev ? Com certeza, fascinado pelos mundo dos bits e bytes.
+<br><br>
 
-
-### 👯 Procurando colocar em prática os novos super poderes recém-adquiridos: 
+### 👯 Procurando colocar em prática os novos super poderes recém-adquiridos: <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
