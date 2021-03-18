@@ -7,7 +7,7 @@ Que tem um espírito de Cientista  <br>
 E atua como um Dev, fascinado pelos mundo dos bits e bytes.
 <br><br>
 
-Me conheça melhor acessando meu  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roneyclima/). 
+Me conheça melhor acessando meu  <br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roneyclima/)
 
 ### ⚡ Procurando colocar em prática os novos super poderes recém-adquiridos: <br>
 
