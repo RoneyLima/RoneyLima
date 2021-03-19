@@ -2,9 +2,10 @@
 
 
 <br><br>
-Um Engenheiro "quase" Elétrico <br>
-Que tem um espírito de Cientista  <br>
-E atua como um Dev, fascinado pelos mundo dos bits e bytes.
+Um Engenheiro Elétrico a ser formar em 2022 <br>
+Que tem um espírito de Cientista desde os 5 anos <br>
+E atua como um Dev, desde que se formou na RecodePro
+Fascinado pelos mundo dos bits e bytes sempre.
 <br><br>
 
 Me conheça melhor acessando meu  <br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roneyclima/)
