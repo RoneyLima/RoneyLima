@@ -1,16 +1,16 @@
-## Olá 👋, que bom que você chegou aqui
+## Hi there 👋, are you interested in who am I ?
 
+So, I'm
 
 <br><br>
-Um Engenheiro Elétrico a ser formar em 2022 <br>
-Que tem um espírito de Cientista desde os 5 anos <br>
-E atua como um Dev, desde que se formou na RecodePro
-Fascinado pelos mundo dos bits e bytes sempre.
+a Full Stack Developer <br>
+On Eletrical Engineering at Universidade Paulista <br>
+
 <br><br>
 
-Me conheça melhor acessando meu  <br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roneyclima/)
+You might know more about me on  <br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roneyclima/)
 
-### ⚡ Procurando colocar em prática os novos super poderes recém-adquiridos: <br>
+### ⚡ Hard Skills experienced: <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
