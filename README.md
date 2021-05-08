@@ -1,16 +1,13 @@
-## Hi there 👋, are you interested in who am I ?
+## Hello World! 👋, 
 
-So, I'm
-
-<br><br>
-a Full Stack Developer <br>
-On Eletrical Engineering at Universidade Paulista <br>
+I'm Roney, <br><br>
+a Developer Jr. studying Eletrical Engineering at Universidade Paulista - UNIP <br>
 
 <br><br>
 
 You might know more about me on  <br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roneyclima/)
 
-### ⚡ Hard Skills experienced: <br>
+### ⚡ I have been experienced in: <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -21,7 +18,9 @@ You might know more about me on  <br>[<img src="https://img.shields.io/badge/lin
 ![MongoDB](https://img.shields.io/badge/-mongoDB-%23F7DF1C?style=flat-square&logo=mongoDB&logoColor=000000&labelColor=%7CFC00&color=%7CFC00)
 ![MySql](https://img.shields.io/badge/-mysql-%23F7DF1C?style=flat-square&logo=mysql&logoColor=00008b&labelColor=%00008b&color=%00008b)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+<br><br>
+- 🌱 I’m currently learning .Net
 
 <!--
 **RoneyLima/RoneyLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
