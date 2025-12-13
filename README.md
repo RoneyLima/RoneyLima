@@ -7,6 +7,18 @@ a Eletrical Engineering and a Software Engineering at Itaú Bank. <br>
 
 You might know more about me on  <br>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/roneyclima/)
 
+<div id="git_status">
+ <h3> ⚙️ Git status</h3>
+
+  <a href=""  >
+    <img height="180em" hspace="10px" src="https://github-readme-stats.vercel.app/api?username=roneylima&show_icons=true&count_private=true&theme=radical"/> 
+  </a>
+  
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegbraz&show_icons=true&count_private=true&theme=radical" >
+    <img height="180em" hspace="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegbraz&show_icons=true&count_private=true&theme=radical"/> 
+  </a>
+</div>
+
 ### ⚡ I have been experienced in: <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
